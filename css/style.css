@@ -1,0 +1,17 @@
+h1{
+    color: chocolate;
+    font-weight: initial;
+}
+p#knöppel{
+    background-color: rgb(255, 94, 0);
+    color: indigo;
+    
+}
+p.TeeVee{
+    color: blue;
+
+}
+body{
+    background-size: 100px;
+    background-image: url(https://media.tenor.com/F5X6jefjqxkAAAAd/alcoholist-water.gif);
+}
